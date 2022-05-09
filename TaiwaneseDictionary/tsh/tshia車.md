@@ -1,6 +1,6 @@
 # tshia 車
 (白) tshia 車
-(文) [ki 車](ki), ku 車  
+(文) ki 車, ku 車  
 
 ```{dropdown} 教
 1. {{名}} 陸地上靠輪子轉動而運行的交通工具。例：火車　hué-tshia、計程車　kè-thîng-tshia。

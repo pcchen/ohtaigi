@@ -5,10 +5,9 @@ format: jb-book
 root: intro
 chapters:
 - file: orthography
-- file: 測試
 - file: a/a.md
   sections:
   - file: a/a-put-tó阿不倒.md
-- file: tsh
+- file: tsh/tsh.md
   sections:
   - file: tshia車
