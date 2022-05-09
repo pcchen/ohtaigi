@@ -4,6 +4,7 @@
 format: jb-book
 root: intro
 chapters:
+- file: orthography
 - file: 測試
 - file: a/a.md
   sections:
