@@ -5,9 +5,9 @@ format: jb-book
 root: intro
 chapters:
 - file: orthography
-- file: a/a.md
+- file: a/a
   sections:
-  - file: a/a-put-tó阿不倒.md
-- file: tsh/tsh.md
+  - file: a/a-put-tó阿不倒
+- file: tsh/tsh
   sections:
-  - file: tshia車
+  - file: tsh/tshia車

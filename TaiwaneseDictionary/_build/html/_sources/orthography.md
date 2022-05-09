@@ -11,7 +11,7 @@ In this article, we describe the orthography of "Tâi-uân lô-má-jī". Three v
 
 ```{list-table} TL(o͘/ⁿ) alphabet
 :header-rows: 0
-:name: example-table
+:name: alphabet
 
 * - A
   - Aᴺ
